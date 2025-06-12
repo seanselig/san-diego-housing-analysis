@@ -31,6 +31,15 @@ seaborn: Advanced statistical data visualization.
 
 Jupyter Notebook: For interactive development, analysis, and documentation.
 
-Tableau Desktop / Tableau Public: For creating interactive and shareable dashboards.
+Tableau: For creating interactive and shareable dashboards.
 
 Git / GitHub: For version control and project hosting.
+
+
+About Me
+
+Hello! I'm Sean Selig, a data enthusiast passionate about transforming raw data into clear, actionable insights. This project on the San Diego housing market showcases my proficiency in data cleaning, exploratory data analysis, and impactful data visualization using Python (Pandas, Matplotlib, Seaborn) and Tableau. I am actively expanding my machine learning skillset, eager to apply advanced analytical techniques to complex datasets and solve real-world business problems.
+
+Connect with me on LinkedIn: https://www.linkedin.com/in/seanselig
+View my Tableau Profile: https://public.tableau.com/app/profile/sean.selig/vizzes
+View my GitHub Profile: https://github.com/seanselig?tab=repositories
